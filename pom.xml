@@ -24,6 +24,7 @@
 				<version>2.1.1</version>
 			</plugin>
 		</plugins>
+		<finalName>webapp</finalName>
 	</build>
 
 </project>
